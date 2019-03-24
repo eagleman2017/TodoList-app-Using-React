@@ -1,0 +1,9 @@
+body{
+    padding: 50px;
+    background-color: blueviolet;
+    font-family: georgia;
+}
+#container{
+    display:flex;
+    justify-content:flex;
+}
